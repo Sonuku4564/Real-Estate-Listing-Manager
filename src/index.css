@@ -2,19 +2,15 @@
 @import 'tailwindcss';
 @import 'tw-animate-css';
 
-@theme {
-  --color-primary: #f84565;
-  --color-primary-dull: #d63854;
-  --color-secondary: #f3f4f6;
-  --color-secondary-dull: #e5e7eb;
+@theme{
+  --color-primary: #F84565;
+  --color-primary-dull: #D63854;
 }
-
 * {
   font-family: 'Nunito', sans-serif;
   scroll-bar: thin;
   scrollbar-color: #787777 #1e1e1e;
 }
-
 body {
   color: white;
   background-color: #09090b;
